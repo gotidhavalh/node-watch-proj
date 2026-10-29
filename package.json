@@ -15,7 +15,7 @@
     "lodash": "4.17.21",
     "minimist": "1.2.6",
     "axios": "0.21.0",
-    "jsonwebtoken": "8.5.0",
+    "jsonwebtoken": "9.0.3",
     "serialize-javascript": "2.1.1",
     "qs": "6.5.2",
     "mongoose": "5.13.20",
