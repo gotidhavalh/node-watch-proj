@@ -16,7 +16,7 @@
     "minimist": "1.2.6",
     "axios": "0.21.0",
     "jsonwebtoken": "9.0.3",
-    "serialize-javascript": "2.1.1",
+    "serialize-javascript": "6.0.2",
     "qs": "6.5.2",
     "mongoose": "6.13.6",
     "handlebars": "4.7.8",
